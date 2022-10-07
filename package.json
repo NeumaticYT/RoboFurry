@@ -1,0 +1,22 @@
+{
+  "name": "robofurry",
+  "version": "1.0.0",
+  "description": "A Typical RPG's official bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeumaticYT/RoboFurry.git"
+  },
+  "author": "NeumaticYT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeumaticYT/RoboFurry/issues"
+  },
+  "homepage": "https://github.com/NeumaticYT/RoboFurry#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
